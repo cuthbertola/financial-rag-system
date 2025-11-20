@@ -21,16 +21,20 @@ An enterprise-grade AI system that uses multiple specialized agents to analyze f
 ## 📸 Screenshots
 
 ### Chat Interface
-![Chat Interface](docs/screenshots/chat.png)
-*Multi-agent financial assistant with real-time responses*
+![Chat Interface](docs/screenshots/chat-interface.png)
+*Modern dark-themed interface with glassmorphism effects*
 
-### Metrics Dashboard
-![Metrics Dashboard](docs/screenshots/metrics.png)
-*Comprehensive performance and cost tracking*
+### Multi-Agent Conversation
+![Agent Response](docs/screenshots/chat-with-agent.png)
+*Agent badges show which specialized agent handled each query*
 
 ### Document Management
-![Document Management](docs/screenshots/documents.png)
-*Easy document upload and management*
+![Document Management](docs/screenshots/documents-page.png)
+*Upload and manage financial documents (PDF, TXT)*
+
+### Metrics Dashboard
+![Metrics Dashboard](docs/screenshots/metrics-dashboard.png)
+*Real-time performance tracking with cost analysis*
 
 ## 🏗️ Architecture
 ```
